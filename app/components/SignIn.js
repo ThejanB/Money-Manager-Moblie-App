@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
   },
   loginButton: {
-    
+    alignSelf: 'center',
     backgroundColor: '#779DFF',
     height: 45,
     justifyContent: 'center',
